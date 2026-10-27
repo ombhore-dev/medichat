@@ -42,7 +42,7 @@ MediChat is a focused AI health assistant that answers medical and health questi
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/medichat.git
+git clone https://github.com/ombhore-dev/medichat.git
 cd medichat
 ```
 
